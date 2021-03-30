@@ -1,3 +1,10 @@
+// Tea Timer
+// V1.1
+// (c) Alain MAUER
+// www.alainsprojects.com
+
+
+
 int LED[] = {2, 3, 4, 5, 6};
 int SERVO = 7;
 int ServoMin = 460;  // adapt this value if needed
